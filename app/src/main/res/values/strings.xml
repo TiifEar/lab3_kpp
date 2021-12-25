@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">lab3</string>
+<!--textView text-->
+    <string name="infCaption">Задано формулу №2</string>
+    <string name="variables">Змінні</string>
+    <string name="step">Крок</string>
+    <string name="limits">Проміжок</string>
+    <string name="showResult">Результат</string>
+
+<!--    author info-->
+    <string name="authorName">Власенко О.В.</string>
+    <string name="speciality">Інженерія Програмного Забезпечення</string>
+    <string name="group">ПР4-1</string>
+<!--    hints-->
+    <string name="xHint">Введіть х</string>
+    <string name="cHint">Введіть с</string>
+    <string name="tHint">Введіть t</string>
+    <string name="x1Hint">Введіть x1</string>
+    <string name="x2Hint">Введіть x2</string>
+    <string name="stepHint">Введіть крок</string>
+<!--    buttons text-->
+    <string name="authorInf">Інформація про автора</string>
+    <string name="result">Обрахувати</string>
+    <string name="clear">Очистити</string>
+    <string name="readLastRes">Зчитати останній результат</string>
+</resources>
